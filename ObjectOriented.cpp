@@ -7,7 +7,7 @@ class animal {
         string sound;
         int count;
     private:
-        cout >> "Hi, I'm an Animal!";
+        int password = 5656;
 };
 
 int main(){
