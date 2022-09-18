@@ -27,5 +27,3 @@ int main() {
   cout << myObj.getSalary();
   return 0;
 }
-
-//haha
